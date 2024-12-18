@@ -1,0 +1,14 @@
+.weather-bg{
+    background-image: url(./pexels-photo-2684011\ \(1\).webp);
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 100vh;
+}
+
+input.form-control {
+    height: 50px;
+}
+button.btn.btn-danger {
+    width: 130px;
+}
